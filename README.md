@@ -144,9 +144,13 @@ cd ~/dotfiles
 ```bash
 chmod +x scripts/bootstrap.sh
 ```
-## 4. Run the Bootstrap Script
+## 4. Run the Bootstrap Script using bash
 ```bash
-./scripts/bootstrap.sh
+./bootstrap.sh
+```
+Or 
+```bash
+bash bootstrap.sh
 ```
 ## 5. Restart the Terminal
 Or reload the shell:
