@@ -1,0 +1,8 @@
+[core]
+    pager = delta
+
+[interactive]
+    diffFilter = delta --color-only
+[user]
+	email = markov.alvarez@gmail.com
+	name = Marco Vinicio
