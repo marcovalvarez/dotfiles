@@ -114,6 +114,8 @@ The following tools are installed:
 | **git-delta** | Better Git diff viewer |
 | **node** | Node.js runtime |
 | **nvm** | Node Version Manager |
+| **vscode** | Visual Studio Code IDE |
+| **chezmoi** | Configuration files manager |
 
 ---
 
@@ -140,6 +142,12 @@ Plugins include:
 - `fzf`
 
 ---
+
+# Requirements
+Git should be installed on your Mac. This is usually achieved by installing the xcode command line tools
+```bash
+xcode-select --install
+```
 
 # Installation
 
