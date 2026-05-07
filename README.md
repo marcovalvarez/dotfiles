@@ -145,7 +145,7 @@ Plugins include:
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dotfiles.git ~/dotfiles
+git clone https://github.com/marcovalvarez/dotfiles.git ~/dotfiles
 ```
 ## 2. Navigate to the Repository
 ```bash
