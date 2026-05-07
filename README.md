@@ -1,6 +1,6 @@
 # macOS Dotfiles
 
-![Version](https://img.shields.io/badge/version-v1.0.0-blue)
+![Version](https://img.shields.io/badge/version-v1.1.0-blue)
 
 A reproducible macOS development environment using **symlinked dotfiles** and a **bootstrap script** to install tools, configure the shell, and set up terminal and editor settings automatically.
 
