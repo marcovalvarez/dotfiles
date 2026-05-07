@@ -54,3 +54,4 @@ fi
 if [ -f ~/.aliases.zsh ]; then
     source ~/.aliases.zsh
 fi
+export PATH="$HOME/.local/bin:$PATH"

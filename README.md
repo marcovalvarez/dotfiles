@@ -10,10 +10,11 @@ This repository allows you to configure a new Mac development environment in min
 
 ## Version
 
-Current stable release: **v1.0.0**
+Current stable release: **v1.1.0**
 
-- Bootstrap script: v3
-- Last tested on: macOS Tahoe 26.1
+Tested on:
+- **macOS Tahoe 26.1**
+- **macOS Tahoe 26.4.1**
 
 ---
 
