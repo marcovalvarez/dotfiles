@@ -153,7 +153,7 @@ cd ~/dotfiles
 ```
 ## 3. Make the Bootstrap Script Executable
 ```bash
-chmod +x scripts/bootstrap.sh
+chmod +x bootstrap.sh
 ```
 ## 4. Run the Bootstrap Script using bash
 ```bash
